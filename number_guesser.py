@@ -22,5 +22,3 @@ for remaining in range(attempts, 0, -1):
         break
 else:  # Executes only if the loop wasn't broken
     print(f"You failed, the solution was {x_number}.")
-
-    # For README: f-strings (f"Hello {name}") are concise, readable, and the most professional and good practice choice.
